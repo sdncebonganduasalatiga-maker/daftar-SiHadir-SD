@@ -1,0 +1,6 @@
+{
+  "name": "SiHadir SD - Presensi Siswa Real-Time & Laporan Otomatis",
+  "description": "Sistem presensi siswa sekolah dasar dengan pemindai barcode kamera real-time, laporan bulanan otomatis wali murid, dan manajemen profil sekolah, guru, serta siswa.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
